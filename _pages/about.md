@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at University of Melbourne studying cross-cultural challenges in human and machine translation (MT). My research goals include identifying difficult-to-translate texts, understanding the challenges of MT systems and improving their performance. My current work addresses cultural gaps in word usage and measures cross-lingual translatability. 
+I am a PhD student at The University of Melbourne studying cross-cultural challenges in human and machine translation (MT). My research goals include identifying difficult-to-translate texts, understanding the challenges of MT systems and improving their performance. My current work addresses cultural gaps in word usage and measures cross-lingual translatability. 
 
-I am advised by [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), [Charles Kemp](http://www.charleskemp.com/), and [Ekaterina Vylomova](https://ivri.github.io/).
+I am advised by [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/), [Charles Kemp](http://www.charleskemp.com/) and [Ekaterina Vylomova](https://ivri.github.io/), and am a member of [Unimelb Natural Language Processing Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
