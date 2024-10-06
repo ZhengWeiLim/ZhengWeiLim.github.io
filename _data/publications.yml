@@ -1,7 +1,7 @@
 main:
 
   - title: 'Mufu: Multilingual Fused Learning for Low-Resource Translation with LLM'
-    authors: <strong>Zheng Wei Lim</strong>, Nitish Gupta, Honglin Yu, and Trevor Cohn. 
+    authors: <strong>Zheng Wei Lim</strong>, Nitish Gupta, Honglin Yu, and Trevor Cohn
     # conference_short: MICCAI
     conference: Preprint 2024
     pdf: https://arxiv.org/pdf/2409.13949
@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "Simpson’s Paradox and the Accuracy-Fluency Tradeoff in Translation"
-    authors: <strong>Zheng Wei Lim</strong>, Ekaterina Vylomova, Trevor Cohn, and Charles Kemp.
+    authors: <strong>Zheng Wei Lim</strong>, Ekaterina Vylomova, Trevor Cohn, and Charles Kemp
     conference_short: ACL
     conference: Association for Computational Linguistics 2024
     pdf: https://arxiv.org/pdf/2402.12690
