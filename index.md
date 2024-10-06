@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Zheng Wei Lim
+<!-- ## Zheng Wei Lim -->
 
 I am a PhD student at **The University of Melbourne**, studying cross-cultural challenges in human and machine translation (MT). My research goals include identifying difficult-to-translate texts, understanding the challenges of MT evaluation and developing MT systems that cater to a wide range of applications. I am advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/).
 
