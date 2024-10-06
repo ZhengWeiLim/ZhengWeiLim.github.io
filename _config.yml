@@ -1,12 +1,12 @@
 # Basic Information 
-title: Zheng Wei Lim
+# title: Zheng Wei Lim
 # position: Ph.D. Student
-affiliation: The University of Melbourne
+# affiliation: The University of Melbourne
 email: z.lim4 (AT) student.unimelb.edu.au
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: machine translation, nlp, natural language processing
+keywords: machine translation, nlp, natural language processing, melbourne
 description: Zheng Wei Lim's personal home page
 canonical: https://zhengweilim.github.io/
 
@@ -21,7 +21,7 @@ linkedin: https://www.linkedin.com/in/zheng-wei-lim-7b74a8125/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/my-pic.jpg
-favicon: ./assets/img/glasses_favicon.png
+favicon: ./assets/img/translate_favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote

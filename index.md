@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## Zheng Wei Lim
 
-I am a PhD student at University of Melbourne, studying cross-cultural challenges in human and machine translation (MT). My research goals include identifying difficult-to-translate texts, understanding the challenges of MT evaluation and developing MT systems that cater to a wide range of applications. 
+I am a PhD student at The University of Melbourne, studying cross-cultural challenges in human and machine translation (MT). My research goals include identifying difficult-to-translate texts, understanding the challenges of MT evaluation and developing MT systems that cater to a wide range of applications. 
 
 Now a student researcher at Google Research Australia, my current focus is on improving translation performance of under-resourced languages with large language models. 
 
