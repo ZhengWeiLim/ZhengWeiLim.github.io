@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## Zheng Wei Lim -->
 
-I am a PhD student at **The University of Melbourne**, studying cross-cultural challenges in translation. I am broadly interested in **multilinguality** and **machine translation** (MT). My current research goals include identifying difficult-to-translate texts, understanding the challenges of MT evaluation and developing MT systems that cater to a wide range of applications. I am jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/).
+I am a PhD student at **The University of Melbourne**, where I study systematically cross-cultural challenges in translation. Broadly I am interested in **multilinguality** and **machine translation** (MT) beyond lexical mapping. My current research goals include identifying difficult-to-translate texts, understanding the challenges of MT evaluation and developing adaptable MT systems to support cross-cultural communication in various contexts. I am jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/).
 
 Now a student researcher at **Google Research Australia**, I am also working on improving low-resource translation using large language models. 
 
