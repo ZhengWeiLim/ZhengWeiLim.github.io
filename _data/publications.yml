@@ -15,10 +15,14 @@ main:
     conference_short: ACL
     conference: Association for Computational Linguistics 2024
     pdf: https://arxiv.org/pdf/2402.12690
+    media_note: Featured on
+    media1: Slator
+    media1link: "https://slator.com/separating-accuracy-fluency-improves-machine-translation-evaluation-study-finds/"
+    media2: X
+    media2link: https://twitter.com/slatornews/status/1767120923432235243
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   
   - title: A Computational Approach to Identifying Cultural Keywords Across Languages
@@ -32,6 +36,9 @@ main:
     conference: Transactions of the Association for Computational Linguistics 2024
     conference_short: TACL
     pdf: https://arxiv.org/pdf/2312.11852
+    media_note: Featured on
+    media1: Slator
+    media1link: "https://slator.com/humans-and-ai-navigate-translation-challenges-similarly-research-finds/"
   
 
   - title: Predicting Human Translation Difficulty Using Automatic Word Alignment

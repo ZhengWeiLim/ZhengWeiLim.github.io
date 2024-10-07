@@ -6,7 +6,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<!-- <div class="pub-row"> -->
+<div class="pub-row">
   <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
@@ -20,27 +20,37 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
-    <!-- <div class="links">
-      {% if link.pdf %} 
+      <div class="links">
+      <!-- {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
+      {% endif %} -->
+      <!-- {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
+      {% endif %} -->
+      <!-- {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      {% endif %}
-      {% if link.bibtex %} 
+      {% endif %} -->
+      <!-- {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
+      {% endif %} -->
+      <!-- {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %} -->
+      {% if link.media1 %}
+      <div class="media">
+      <strong> <i style="color:#e74d3c">{{ link.media_note }}</i></strong>
+      <i><a href="{{ link.media1link }}" style="color:#e74d3c"><u>{{ link.media1 }}</u></a></i>
+      {% if link.media2 %}
+      <strong> <i style="color:#e74d3c"> and </i></strong>
+      <i><a href="{{ link.media2link }}" style="color:#e74d3c"><u>{{ link.media2 }}</u></a></i>
       {% endif %}
-      {% if link.others %} 
+      </div>
+      {% endif %}
+      <!-- {% if link.others %} 
       {{ link.others }}
-      {% endif %}
-    </div> -->
-  <!-- </div> -->
+      {% endif %} -->
+    </div>
+  </div>
 </div>
 </li>
 <br>
