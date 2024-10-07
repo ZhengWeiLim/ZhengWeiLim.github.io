@@ -14,7 +14,7 @@ main:
     authors: <strong>Zheng Wei Lim</strong>, Ekaterina Vylomova, Trevor Cohn, and Charles Kemp
     conference_short: ACL
     conference: Association for Computational Linguistics 2024
-    pdf: https://arxiv.org/pdf/2402.12690
+    pdf: https://aclanthology.org/2024.acl-short.9.pdf
     media_note: Featured on
     media1: Slator
     media1link: "https://slator.com/separating-accuracy-fluency-improves-machine-translation-evaluation-study-finds/"
