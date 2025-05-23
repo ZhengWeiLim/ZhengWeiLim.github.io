@@ -8,7 +8,7 @@ I am a PhD student at the **The University of Melbourne**, where I develop compu
 
 My long-term research interests include 
  - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing broader language phenomena
- - developing approaches that help large-scale models navigate varying goals and conflicts, specifically controllable mechanisms for convergent and divergent behaviours of models across time, languages and modalities
+ - developing approaches that help large-scale models navigate varying goals and conflicts, specifically controllable mechanisms for convergent and divergent behaviours of models across time, languages and modalities.
 
 I am jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/). In 2024, I was a student researcher at **Google Research Australia**.
 
