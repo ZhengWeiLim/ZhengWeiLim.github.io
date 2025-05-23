@@ -6,7 +6,7 @@ layout: homepage
 
 I am a PhD student at the **The University of Melbourne**, where I develop computational methods for cross-cultural translation. My current research involves topics relating to **multilinguality**, **psycholinguistics** and **interpretability**. 
 
-My long-term research interests include 
+My long-term research interests include: 
  - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing broader language phenomena
  - developing approaches that help large-scale models navigate varying goals and conflicts, specifically controllable mechanisms for convergent and divergent behaviours of models across time, languages and modalities.
 
