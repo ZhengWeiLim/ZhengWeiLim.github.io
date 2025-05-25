@@ -4,9 +4,9 @@ layout: homepage
 
 <!-- ## Zheng Wei Lim -->
 
-I am a PhD student at the University of Melbourne, developing computational methods for _difficult_ (i.e. cross-cultural or low-resource) translation. I have also worked on topics relating to **multilinguality**, **psycholinguistics** and **interpretability**. 
+I am a PhD student at the University of Melbourne, developing computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I have also worked on topics relating to **multilinguality**, **psycholinguistics** and **interpretability**. 
 
-My long-term research interests include: 
+My long-term research interests include:
  - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing more complex language phenomena
  - studying how large-scale models navigate varying (sometimes conflicting) goals, and developing controllable mechanisms that drive convergent or adaptable behaviour across time, domains, languages and modalities.
 
