@@ -1,5 +1,5 @@
 main:
-  - title: 'Understanding Cross-Lingual Inconsistency in Large Language Models'
+  - title: 'Language-Specific Latent Process Hinders Cross-Lingual Performance'
     authors: <strong>Zheng Wei Lim</strong>, Alham Fikri Aji, and Trevor Cohn
     conference: Preprint 2025
     pdf: https://arxiv.org/pdf/2505.13141
