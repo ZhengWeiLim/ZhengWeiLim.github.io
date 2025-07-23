@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## Zheng Wei Lim -->
 
-I am a PhD student at the University of Melbourne, developing computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I have also worked on topics relating to **multilinguality** [1-6], **psycholinguistics** [3-6] and **interpretability** [1, 2, 5]. 
+I am a PhD student in natural language processing at the University of Melbourne, developing computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I have also worked on topics relating to **multilinguality** [1-6], **psycholinguistics** [3-6] and **interpretability** [1, 2, 5]. 
 
 My long-term research interests include:
  - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing more complex language phenomena
