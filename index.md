@@ -7,7 +7,7 @@ layout: homepage
 I am a PhD student in NLP at the University of Melbourne, developing computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I have also worked on topics relating to **multilinguality** [1-6], **psycholinguistics** [3-6] and **interpretability** [1, 2, 5]. 
 
 My long-term research interests include:
- - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing cognitively plausible language phenomena
+ - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing cognitively motivated language phenomena
  - studying how large-scale models navigate varying (sometimes conflicting) goals, and developing controllable mechanisms that drive convergent or adaptable behaviour across time, domains, languages and modalities.
 
 I am jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/). In 2024, I was a student researcher at **Google Research Australia**.
