@@ -7,7 +7,7 @@ layout: homepage
 
 I am a postdoctoral researcher at the Institute for Logic, Language and Computation (ILLC) at the University of Amsterdam, working with [Ivan Titov](https://ivan-titov.org/). 
 
-Prior to this, I obtained my PhD at the University of Melbourne, where I developed computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I was jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/). I also worked on topics relating to multilinguality [1-6] and psycholinguistics [3-6]. In 2024, I was a student researcher at Google Research Australia.
+Prior to this, I obtained my PhD from the University of Melbourne, where I developed computational methods for _difficult_ (i.e., cross-cultural or low-resource) translation. I was jointly advised by [Ekaterina Vylomova](http://kat.academy/), [Charles Kemp](https://www.charleskemp.com/) and [Trevor Cohn](https://trevorcohn.github.io/). I also worked on topics relating to multilinguality [1-6] and psycholinguistics [3-6]. In 2024, I was a student researcher at Google Research Australia.
 
 My current research interests include:
  - understanding how model architecture, training data and algorithms impose learning biases on language models, and their limitations in representing cognitively driven language phenomena
